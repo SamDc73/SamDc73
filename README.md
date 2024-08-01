@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Husam</h1>
-<p>👋 Hey there! I'm a data analyst and a passionate Pythonist with a growing fascination for the exciting intersection of AI and hardware.
+<p> Hey there! I'm a data analyst and a passionate Pythonist with a growing fascination for the exciting intersection of AI and hardware.
   
 Linux enthusiast and proud advocate for open-source software. 
 
