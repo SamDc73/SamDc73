@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Husam</h1>
 <h3 align="center">Developer to be</h3>
+<p>👋 Hey there! I'm a data analyst and a passionate Pythonist with a growing fascination for the exciting intersection of AI and hardware. 🐍📊🤖
+
+Linux enthusiast and proud advocate for open-source software. 
+
+Always eager to learn, collaborate, and contribute to projects that push the envelope. Let's connect and create something amazing together!
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
